@@ -1,0 +1,137 @@
+{
+  "generated": "2026-09-22T21:05:00-04:00",
+  "dataPath": "/workspace/meal-studio-data/reference",
+  "studioPublicPath": "reference/",
+  "skipped": [
+    "Henri Pluviose / Henry \u2014 no longer a client"
+  ],
+  "clients": [
+    {
+      "name": "Dakota",
+      "docs": [
+        {
+          "phase": "Off Season",
+          "file": "dakota/Dakota-Canva-Current.pdf",
+          "canvaId": "DAHSey3vUFs",
+          "note": "Canva title Mini Cut; body is Off Season macros",
+          "bytes": 2815301,
+          "exists": true
+        },
+        {
+          "phase": "Off Season",
+          "file": "dakota/Dakota-Off-Season.pdf",
+          "source": "WhatsApp/Drive archive",
+          "bytes": 1448607,
+          "exists": true
+        },
+        {
+          "phase": "Mini Cut",
+          "file": "dakota/Dakota-Mini-Cut.pdf",
+          "source": "WhatsApp archive",
+          "bytes": 3112046,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "Trish",
+      "docs": [
+        {
+          "phase": "Lifestyle",
+          "file": "trish/Trish-Lifestyle-Canva.pdf",
+          "canvaId": "DAHFt3kTeGM",
+          "bytes": 1863482,
+          "exists": true
+        },
+        {
+          "phase": "Lifestyle",
+          "file": "trish/Trish-Lifestyle-Drive-2026-07-31.pdf",
+          "source": "Drive program updates",
+          "bytes": 2309809,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "Darian",
+      "docs": [
+        {
+          "phase": "Prep",
+          "file": "darian/Darian-Prep-Canva.pdf",
+          "canvaId": "DAG9Ztj4fsY",
+          "bytes": 1873783,
+          "exists": true
+        },
+        {
+          "phase": "Reverse",
+          "file": "darian/Darian-Reverse-Canva.pdf",
+          "canvaId": "DAHV1ADZQG8",
+          "bytes": 1616453,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "Nattie",
+      "docs": [
+        {
+          "phase": "Lifestyle",
+          "file": "nattie/Nattie-Lifestyle-Canva.pdf",
+          "canvaId": "DAHPvh21Ifk",
+          "bytes": 1630922,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "James S",
+      "docs": [
+        {
+          "phase": "Lifestyle",
+          "file": "james-s/JamesS-Lifestyle-Canva.pdf",
+          "canvaId": "DAHFkqoV6c8",
+          "bytes": 1574458,
+          "exists": true
+        },
+        {
+          "phase": "Lifestyle",
+          "file": "james-s/JamesS-Lifestyle-Drive-2026-05-23.pdf",
+          "source": "Drive",
+          "bytes": 1819308,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "Kris",
+      "docs": [
+        {
+          "phase": "Lifestyle",
+          "file": "kris/Kris-Lifestyle-Canva.pdf",
+          "canvaId": "DAHPfgKMNW0",
+          "bytes": 1522130,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "Owais",
+      "docs": [
+        {
+          "phase": "Prep",
+          "file": "owais/Owais-Prep-Canva.pdf",
+          "canvaId": "DAHTCrOVF3Y",
+          "bytes": 1631083,
+          "exists": true
+        },
+        {
+          "phase": "Prep",
+          "file": "owais/Owais-Prep.pdf",
+          "source": "WhatsApp archive",
+          "bytes": 2205168,
+          "exists": true
+        }
+      ]
+    }
+  ]
+}
