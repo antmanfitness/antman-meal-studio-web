@@ -1,0 +1,1 @@
+var e=`/antman-meal-studio-web/assets/pdf.worker.min-FHbmGBN0.mjs`;export{e as default};
